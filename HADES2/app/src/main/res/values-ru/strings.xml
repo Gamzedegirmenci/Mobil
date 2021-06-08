@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">hades3</string>
+    <string name="Kayıt">регистр</string>
+    <string name="Id">Введите свой идентификационный номер</string>
+    <string name="name">Введите ваше имя</string>
+    <string name="surname">Введите вашу фамилию</string>
+    <string name="date">Введите свой год рождения</string>
+    <string name="bilgi">Это приложение используется только в случаях насилия над животными.</string>
+    <string name="Further">Способствовать</string>
+    <string name="text" translatable="false">Убедитесь, что вы ввели свою информацию полностью</string>
+    <string name="ihbar">УВЕДОМЛЕНИЕ</string>
+    <string name="help" translatable="false">Ваш запрос о помощи будет направлен в соответствующие органы. Вы уверены что хотите продолжить?</string>
+    <string name="yes" translatable="false">ДА</string>
+    <string name="no" translatable="false">НЕТ</string>
+    <string name="talep" translatable="false">Ваш запрос о помощи был отменен.</string>
+    <string name="bilgilendirme" translatable="false">Информация</string>
+    <string name="konum" translatable="false">Не удается получить местоположение, так как разрешение не предоставлено</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">HADES</string>
+    <string name="Kayıt">Kayıt Ol</string>
+    <string name="Id">Kimlik Numaranızı Giriniz</string>
+    <string name="name">Adınızı Giriniz</string>
+    <string name="surname">Soyadınızı Giriniz</string>
+    <string name="date">Doğum Yılınızı Giriniz</string>
+    <string name="bilgi">Bu uygulama yalnızca Hayvana karşı şiddet olaylarında kullanılır.</string>
+    <string name="Further">İleri</string>
+    <string name="dil_degistir" translatable="false" />
+    <string name="text" translatable="false">Bilgilerinizi Eksiksiz Girdiğinize Emin Olunuz</string>
+    <string name="ihbar">İHBAR ET</string>
+    <string name="help" translatable="false">Yardım Talebiniz Gerekli Mercilere İletilecektir. Devam Etmek İstediğinizden Emin Misiniz?</string>
+    <string name="yes" translatable="false">EVET</string>
+    <string name="no" translatable="false">HAYIR</string>
+    <string name="talep" translatable="false">Yardım Talebiniz İptal Edilmiştir.</string>
+    <string name="bilgilendirme" translatable="false">Bilgilendirme</string>
+    <string name="konum" translatable="false">İzin Verilemediği İçin Konum Alınamıyor</string>
+</resources>

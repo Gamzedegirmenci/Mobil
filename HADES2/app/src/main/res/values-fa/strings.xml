@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">hades3</string>
+    <string name="Kayıt">ثبت نام</string>
+    <string name="Id">شماره شناسه خود را وارد کنید</string>
+    <string name="name">اسمت را وارد کن</string>
+    <string name="surname">نام خانوادگی خود را وارد کنید</string>
+    <string name="date">سال تولد خود را وارد کنید</string>
+    <string name="bilgi">این برنامه فقط در موارد خشونت علیه حیوانات استفاده می شود.</string>
+    <string name="Further">به علاوه</string>
+    <string name="text" translatable="false">مطمئن شوید که اطلاعات خود را کاملاً وارد می کنید</string>
+    <string name="ihbar">اطلاع</string>
+    <string name="help" translatable="false">درخواست کمک شما به مقامات لازم ارسال می شود. آیا مطمئن هستید که میخواهید ادامه دهید؟</string>
+    <string name="yes" translatable="false">آره</string>
+    <string name="no" translatable="false">نه</string>
+    <string name="talep" translatable="false">درخواست شما برای کمک لغو شده است.</string>
+    <string name="bilgilendirme" translatable="false">اطلاعات</string>
+    <string name="konum" translatable="false">نمی توان مکان را دریافت کرد زیرا مجوز داده نمی شود</string>
+</resources>

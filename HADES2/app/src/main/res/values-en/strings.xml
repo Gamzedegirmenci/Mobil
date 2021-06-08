@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">hades3</string>
+    <string name="Kayıt">Register</string>
+    <string name="Id">Enter your ID</string>
+    <string name="name">Enter your name</string>
+    <string name="surname">Enter your last name</string>
+    <string name="date">Enter Your Birth Year</string>
+    <string name="bilgi">This application is only used in cases of violence against animals.</string>
+    <string name="Further">Further</string>
+    <string name="dil_degistir" />
+    <string name="text" translatable="false">Make Sure You Enter Your Information Completely</string>
+    <string name="ihbar">NOTICE</string>
+    <string name="help" translatable="false">Your Request for Assistance will be forwarded to the Required Authorities. Are you sure you want to continue?</string>
+    <string name="yes" translatable="false">YES</string>
+    <string name="no" translatable="false">NO</string>
+    <string name="talep" translatable="false">Your Request for Help Has Been Canceled.</string>
+    <string name="bilgilendirme" translatable="false">Information</string>
+    <string name="konum" translatable="false">Cannot Get Location Because Permission Is Not Granted</string>
+</resources>

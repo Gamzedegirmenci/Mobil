@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">hades3</string>
+    <string name="Kayıt">Registrieren</string>
+    <string name="Id">Geben Sie Ihre Identitätsnummer ein</string>
+    <string name="name">Gib deinen Namen ein</string>
+    <string name="surname">Geben Sie Ihren Nachnamen ein</string>
+    <string name="date">Geben Sie Ihr Geburtsjahr ein</string>
+    <string name="bilgi">Diese Anwendung wird nur in Fällen von Gewalt gegen Tiere verwendet.</string>
+    <string name="Further">Des Weiteren</string>
+    <string name="text" translatable="false">Stellen Sie sicher, dass Sie Ihre Daten vollständig eingeben</string>
+    <string name="ihbar">BEACHTEN</string>
+    <string name="help" translatable="false">Ihr Hilfegesuch wird an die zuständigen Behörden weitergeleitet. Sind Sie sicher, dass Sie fortfahren möchten?</string>
+    <string name="yes" translatable="false">Ja</string>
+    <string name="no" translatable="false">Nein</string>
+    <string name="talep" translatable="false">Ihre Hilfeanfrage wurde storniert.</string>
+    <string name="bilgilendirme" translatable="false">Information</string>
+    <string name="konum" translatable="false">Standort kann nicht abgerufen werden, da keine Berechtigung erteilt wurde</string>
+</resources>

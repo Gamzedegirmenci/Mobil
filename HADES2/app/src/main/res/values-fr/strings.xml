@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">hades3</string>
+    <string name="Kayıt">S\'inscrire</string>
+    <string name="Id">Entrez votre numéro d\'identité </string>
+    <string name="name">Entrez votre nom</string>
+    <string name="surname">Entrez votre nom de famille</string>
+    <string name="date">Entrez votre année de naissance</string>
+    <string name="bilgi">Cette application n\'est utilisée qu\'en cas de violence envers les animaux. </string>
+    <string name="Further">Plus loin</string>
+    <string name="text" translatable="false">Assurez-vous de saisir complètement vos informations</string>
+    <string name="ihbar">REMARQUER</string>
+    <string name="help" translatable="false">Votre demande d\'assistance sera transmise aux autorités compétentes. Es-tu sur de vouloir continuer?</string>
+    <string name="yes" translatable="false">OUI</string>
+    <string name="no" translatable="false">NON</string>
+    <string name="talep" translatable="false">Votre demande d\'aide a été annulée.</string>
+    <string name="bilgilendirme" translatable="false">Informations</string>
+
+</resources>

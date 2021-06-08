@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">hades3</string>
+    <string name="Kayıt">سجل</string>
+    <string name="Id">أدخل رقم هويتك</string>
+    <string name="name">أدخل أسمك</string>
+    <string name="surname">أدخل اسمك الأخير</string>
+    <string name="date">أدخل سنة ميلادك</string>
+    <string name="bilgi">يستخدم هذا التطبيق فقط في حالات العنف ضد الحيوانات.</string>
+    <string name="Further">إضافه على</string>
+    <string name="text" translatable="false">تأكد من إدخال معلوماتك بالكامل</string>
+    <string name="ihbar">تنويه</string>
+    <string name="help" translatable="false">سيتم إرسال طلب المساعدة الخاص بك إلى السلطات اللازمة. هل أنت متأكد أنك تريد الاستمرار؟</string>
+    <string name="yes" translatable="false">أجل</string>
+    <string name="no" translatable="false">لا</string>
+    <string name="talep" translatable="false">تم إلغاء طلبك للمساعدة.</string>
+    <string name="bilgilendirme" translatable="false">معلومة</string>
+    <string name="konum" translatable="false">لا يمكن الحصول على الموقع لأنه لم يتم منح الإذن</string>
+</resources>
